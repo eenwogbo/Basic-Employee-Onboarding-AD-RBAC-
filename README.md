@@ -6,9 +6,6 @@
 ## Solution Overview
 * The solution was to build out a basic employee onboarding pipeline in Active Directory. I created OUs based on each department, created security groups, and used the RBAC method to give users access ONLY according to their role. 
 
-## Video Walkthrough
-[Add your video walkthrough link placeholder here. You will record this tomorrow and update this link so visitors can see a live demonstration of your lab environment.]
-
 ## Tools Used
 * Windows Server
 * Active Directory Domain Services
